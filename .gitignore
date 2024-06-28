@@ -1,3 +1,5 @@
+# CUSTOM
+setenv.sh
 # Logs
 logs
 *.log
